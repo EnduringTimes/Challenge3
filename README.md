@@ -18,6 +18,9 @@ To run this project locally:
 1. Clone the repository.
 2. Open `index.html` in your browser.
 
+## Pages Link
+https://enduringtimes.github.io/Challenge3/
+
 ## Screenshots
 ![Employee Payroll Tracker](payroll-tracker/images/Payroll.png)
 
