@@ -19,7 +19,7 @@ To run this project locally:
 2. Open `index.html` in your browser.
 
 ## Screenshots
-![Employee Payroll Tracker](Develop/images/Payroll.png)
+![Employee Payroll Tracker](payroll-checker/Develop/images/Payroll.png/)
 
 ## Future Enhancements
 - Implementation of form modal for entering new employee details.
